@@ -1,0 +1,5 @@
+family = input()
+preferred = input()
+ylimaf = family.upper()
+derreferp = preferred.title()
+print(ylimaf+", "+derreferp)
